@@ -23,4 +23,4 @@ Organizations in google summer of code:
 
 How to apply at girl-script:
 - [Video](https://summerofcode.withgoogle.com/programs/2022/organizations/wikimedia-foundation)
-- [Organization-2](https://www.youtube.com/watch?v=xwZ25QRhxpg)
+- [How to apply video](https://www.youtube.com/watch?v=xwZ25QRhxpg)
