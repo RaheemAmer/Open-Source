@@ -25,7 +25,7 @@ How to apply at girl-script:
 - [Video](https://summerofcode.withgoogle.com/programs/2022/organizations/wikimedia-foundation)
 - [How to apply video](https://www.youtube.com/watch?v=xwZ25QRhxpg)
 
-Organization that offer internship:
+Open source organizations:
 - [Oragnization1](https://codeheat.org/)
 - [Oragnization2](https://developers.google.com/season-of-docs)
 - [Oragnization3](https://fellowship.mlh.io/)
