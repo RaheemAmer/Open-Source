@@ -1,4 +1,4 @@
-# Open-source
+# Open-source projects and contributions
 projects I like in girlscript code:
 
 - [Project1](https://github.com/Tech-N-Science/FunwithScience)
