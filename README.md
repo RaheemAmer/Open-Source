@@ -1,4 +1,4 @@
-# Prepare-for-Girl-script-code-and-google-summer-of-code
+# Open-source
 projects I like in girlscript code:
 
 - [Project1](https://github.com/Tech-N-Science/FunwithScience)
