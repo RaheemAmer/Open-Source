@@ -24,3 +24,22 @@ Organizations in google summer of code:
 How to apply at girl-script:
 - [Video](https://summerofcode.withgoogle.com/programs/2022/organizations/wikimedia-foundation)
 - [How to apply video](https://www.youtube.com/watch?v=xwZ25QRhxpg)
+
+Organization that offer internship:
+- [Oragnization1](https://codeheat.org/)
+- [Oragnization2](https://developers.google.com/season-of-docs)
+- [Oragnization3](https://fellowship.mlh.io/)
+- [Oragnization4](https://lfx.linuxfoundation.org/tools/mentorship/)
+- [Oragnization5](https://gssoc.girlscript.tech/)
+- [Oragnization6](https://hacktoberfest.digitalocean.com/)
+- [Oragnization7](https://24pullrequests.com/about)
+- [Oragnization8](https://www.eddiehub.org/?r_done=1) 
+- [Oragnization9](https://www.eddiejaoude.io/course-github-profile-landing?r_done=1)
+
+Cool stuff to help you in learning:
+- [Limk1](https://www.twilio.com/quest/learn/open-source)
+- [Limk2](https://ohmygit.org/)
+- [Limk3](https://learngitbranching.js.org/)
+- [Limk4](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
+
+
