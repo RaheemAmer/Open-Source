@@ -1,5 +1,5 @@
 # Open-source projects and contributions
-projects I like in girlscript code:
+projects I like in girls-script:
 
 - [Project1](https://github.com/Tech-N-Science/FunwithScience)
 - [Project2](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects)
@@ -21,7 +21,7 @@ Organizations in google summer of code:
 - [Organization-5](https://summerofcode.withgoogle.com/programs/2022/organizations/plone-foundation)
 - [Organization-6](https://summerofcode.withgoogle.com/programs/2022/organizations/electron)
 
-How to apply at girl-script:
+How to apply at girls-script:
 - [Video](https://summerofcode.withgoogle.com/programs/2022/organizations/wikimedia-foundation)
 - [How to apply video](https://www.youtube.com/watch?v=xwZ25QRhxpg)
 
