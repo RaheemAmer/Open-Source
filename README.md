@@ -37,9 +37,9 @@ Open source organizations:
 - [Oragnization9](https://www.eddiejaoude.io/course-github-profile-landing?r_done=1)
 
 Cool stuff to help you in learning:
-- [Limk1](https://www.twilio.com/quest/learn/open-source)
-- [Limk2](https://ohmygit.org/)
-- [Limk3](https://learngitbranching.js.org/)
-- [Limk4](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
+- [Link1](https://www.twilio.com/quest/learn/open-source)
+- [Link1](https://ohmygit.org/)
+- [Link1](https://learngitbranching.js.org/)
+- [Link1](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
 
 
