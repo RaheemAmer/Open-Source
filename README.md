@@ -38,8 +38,8 @@ Open source organizations:
 
 Cool stuff to help you in learning:
 - [Link1](https://www.twilio.com/quest/learn/open-source)
-- [Link1](https://ohmygit.org/)
-- [Link1](https://learngitbranching.js.org/)
-- [Link1](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
+- [Link2](https://ohmygit.org/)
+- [Link3](https://learngitbranching.js.org/)
+- [Link4](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
 
 
