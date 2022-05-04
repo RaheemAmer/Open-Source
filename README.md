@@ -36,6 +36,9 @@ Open source organizations:
 - [Oragnization8](https://www.eddiehub.org/?r_done=1) 
 - [Oragnization9](https://www.eddiejaoude.io/course-github-profile-landing?r_done=1)
 - [Oragnization10](https://www.outreachy.org/)
+- [Oragnization11](https://supertokens.com/)
+- [Oragnization12](https://devlibrary.withgoogle.com/?utm_source=freecodecamp-blog&utm_medium=submit&utm_campaign=freecodecamp-blog)
+- [Oragnization13](https://thegooddocsproject.dev/)
 
 Cool stuff to help you in learning:
 - [Link1](https://www.twilio.com/quest/learn/open-source)
