@@ -39,11 +39,11 @@ Open source organizations:
 - [Oragnization11](https://supertokens.com/)
 - [Oragnization12](https://devlibrary.withgoogle.com/?utm_source=freecodecamp-blog&utm_medium=submit&utm_campaign=freecodecamp-blog)
 - [Oragnization13](https://summer.nixos.org/)
-- [Oragnization13](https://thegooddocsproject.dev/)
-- [Oragnization13](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/apply/)
-- [Oragnization13](https://wiki.linuxfoundation.org/lkmp#how_to_apply)
-- [Oragnization13](https://docs.google.com/forms/d/e/1FAIpQLScp8h5SIPVK5G2SAm5vtrv7KLKeOeYTxlZBkDRE6I7Toybt0A/viewform)
-- [Oragnization13](https://github.com/kubernetes/sig-release/blob/master/release-team/shadows.md)
+- [Oragnization14](https://thegooddocsproject.dev/)
+- [Oragnization15](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/apply/)
+- [Oragnization16](https://wiki.linuxfoundation.org/lkmp#how_to_apply)
+- [Oragnization17](https://docs.google.com/forms/d/e/1FAIpQLScp8h5SIPVK5G2SAm5vtrv7KLKeOeYTxlZBkDRE6I7Toybt0A/viewform)
+- [Oragnization18](https://github.com/kubernetes/sig-release/blob/master/release-team/shadows.md)
 
 Cool stuff to help you in learning:
 - [Link1](https://www.twilio.com/quest/learn/open-source)
